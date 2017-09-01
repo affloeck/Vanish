@@ -1,0 +1,23 @@
+newmtl testBox
+Kd 0.8103448 0.155357 0.1251268
+Ks 0.2 0.2 0.2
+illum 2
+
+newmtl Mat.6
+Kd 0.26 0.1491176 0.1491176
+illum 2
+
+newmtl Default-Material
+Kd 1 1 1
+illum 2
+
+newmtl head
+Kd 0.03793103 0.01153763 0.01031947
+illum 2
+
+newmtl mountain_01
+Kd 1 0.9129542 0.7426471
+Ks 0.2 0.2 0.2
+map_Kd null
+illum 2
+
